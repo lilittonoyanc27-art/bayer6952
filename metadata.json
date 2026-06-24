@@ -1,0 +1,6 @@
+{
+  "name": "Ruleta de Preguntas 3D",
+  "description": "Un juego interactivo en 3D para practicar español con temas de pasado, futuro, comida, animales y viajes para dos jugadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
